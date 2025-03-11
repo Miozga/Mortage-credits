@@ -70,6 +70,11 @@ body {
   padding: 1em;
 }
 
+.accordion-button:not(.collapsed) {
+  color: rgb(233, 106, 22);
+  background-color: rgb(248, 248, 248);
+}
+
 .team {
   background-color: rgb(248, 248, 248);
 }
